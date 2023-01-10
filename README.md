@@ -7,4 +7,4 @@
 
 - Video Demo: https://www.loom.com/share/d5ec9f75b574459d8d5fad277fe4d243
 
-- This repository contains the schematic, all the gerber files, and all other documents that would be needed to manufacture this PCB. 
+- This repository contains the schematic, gerber files, and all other documents that would be needed to manufacture this PCB. 
